@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'clinicmgms'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_DEF8ABC7674F45E6BDA2E1DAF4CD1A2F }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_0009837AA2854E91B4FE711B890E0D20 }}
           package: .
